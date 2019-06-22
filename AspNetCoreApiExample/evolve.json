@@ -1,0 +1,8 @@
+{
+  "Evolve.Command": "",
+  "Evolve.Driver": "MySQL.Data",
+  "Evolve.ConnectionString": "Server=localhost;Port=3306;DataBase=aspnet_example;Uid=root;Pwd=root;SslMode=none;",
+  "Evolve.Locations": "db",
+  "Evolve.EraseOnValidationError": true,
+  "Evolve.Placeholder.table4": "table_4"
+}
